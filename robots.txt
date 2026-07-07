@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://holeesheet.github.io/sitemap.xml
+Sitemap: https://rsx2005.github.io/HoLeeSheet/sitemap.xml
